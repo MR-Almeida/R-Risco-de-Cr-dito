@@ -6,3 +6,8 @@ O conjunto de dados “German Credit Data” será usado para construir e treina
 O dataset contém 1000 observações e 20 variáveis, representando os dados de clientes, tai como: status da conta corrente, histórico de credito, quantidade de credito atual, empregabilidade, residência, idade, etc.
 
 Link: https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)
+
+Base de dados: credito.csv
+
+Script R: - Risco de Credito
+          - Class Tools
